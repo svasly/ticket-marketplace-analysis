@@ -50,7 +50,6 @@
 - `service_name` – билетный оператор
 
 
-
 ## Технологический стек
 
 
@@ -95,7 +94,7 @@ jupyter notebook ticket-marketplace.ipynb
 ```
 DB_USER=praktikum_student
 DB_PASSWORD=ваш_пароль
-DB\_HOST=rc1b-wcoijxj3yxfsf3fs.mdb.yandexcloud.net
+DB_HOST=rc1b-wcoijxj3yxfsf3fs.mdb.yandexcloud.net
 DB_PORT=6432
 DB_NAME=data-analyst-afisha
 ```
